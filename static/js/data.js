@@ -1,6 +1,7 @@
 const routes = [
   {name: '虾米解析', url: 'https://jx.xmflv.com/?url='},
   {name: 'Jy解析', url: 'https://jx.playerjy.com/?ads=0&url='},
+  {name: 'Jy解析', url: 'https://jx.nnxv.cn/tv.php?url='},
 ]
 
 const friends = [
